@@ -19,7 +19,5 @@ def discounted(price, discount, max_discount = 50):
 
 # product["with.discount"] = discounted(product['price'], product['discount'])
 
-# print(product)
-
 print(discounted(100, 40))
 
